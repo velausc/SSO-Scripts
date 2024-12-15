@@ -35,6 +35,9 @@ global/ShopManager/Episode1/NewHillcrestStarshop.ShopOpen(); - NH Clothes n Gear
 global/ShopManager/Episode1/NewHillcrestTopsPants.ShopOpen(); - NH Tops n Pants
 
 global/ShopManager/Episode1/GoldspurStarShop.ShopOpen(); - Goldspur Clothes n Gear
+global/ShopManager/Episode1/MagicChristmasMarketShop_A.ShopOpen(); - Christmas Market
+global/ShopManager/Episode1/MagicChristmasMarketShop_Costumes.ShopOpen(); - Christmas Costumes
 
 # Pets
 global/ShopManager/Episode1/Goldspur_WalkingPetSquirrelShop.ShopOpen(); - Squirrels
+global/ShopManager/Episode1/WinterVillage_Pets.ShopOpen(); - Christmas Pets
