@@ -3,6 +3,7 @@ global/ShopManager/Episode1/JamieOlivetreeClothesShop.ShopOpen(); - Jamie Olivet
 global/ShopManager/Episode1/QC2123_FashionWeekQuest.ShopOpen(); - Fashion Week
 global/ShopManager/Episode1/RockShop2.ShopOpen(); - Rock Shop
 global/ShopManager/Episode1/MasqueradeShop.ShopOpen(); - Masquerade Shop
+
 global/ShopManager/Episode1/EquestrianFestival_Premium_FestiveEquestrian.ShopOpen(); - Equestrian Festival
 global/ShopManager/Episode1/CafeShop_Cafe.ShopOpen(); - Café
 global/ShopManager/Episode1/CafeShop_Restaurant.ShopOpen(); - Restaurant
