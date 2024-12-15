@@ -1,4 +1,4 @@
-# SSO-Scripts
+# SSO Scripts
 
 Welcome to the official GitHub repository for Open Horse Scripts, a community-driven project dedicated to enhancing and exploring Star Stable Online.
 
