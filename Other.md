@@ -27,3 +27,12 @@ global/MyStableWindow.Start(); - Open wardrobe
 global/MakeupChangeWindow.Start(); - Open makeup window
 
 global/HairStyleChangeWindow.Start(); - Open hairstyle window
+
+global/Horse.HorseAppearanceCustomBody(1,1,0);global/Horse.HorseAppearanceCustomHair(15,1,0); - Old gray deer
+global/Horse.HorseAppearanceCustomBody(1,2,0);global/Horse.HorseAppearanceCustomHair(15,1,0); - Old white deer
+global/Horse.HorseAppearanceCustomBody(1,3,0);global/Horse.HorseAppearanceCustomHair(15,1,0); - Old rudolph deer
+global/Horse.HorseAppearanceCustomBody(1,4,0);global/Horse.HorseAppearanceCustomHair(15,1,0); - Old brown deer
+global/Horse.HorseAppearanceCustomBody(1,1,0);global/Horse.HorseAppearanceCustomHair(20,1,0); - Yule goat
+global/Horse.HorseAppearanceCustomBody(1,1,0);global/Horse.HorseAppearanceCustomHair(22,1,0); - Female deer
+global/Horse.HorseAppearanceCustomBody(1,1,0);global/Horse.HorseAppearanceCustomHair(23,1,0); - Bear
+global/Horse.HorseAppearanceCustomBody(1,1,0);global/Horse.HorseAppearanceCustomHair(24,1,0); - Moose
