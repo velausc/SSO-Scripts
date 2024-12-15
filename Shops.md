@@ -30,6 +30,7 @@ global/ShopManager/Episode1/CrescentVillageGear.ShopOpen(); - CV Gear
 global/ShopManager/Episode1/NewHillcrestGear.ShopOpen(); - New Hillcrest Gear
 global/ShopManager/Episode1/NewHillcrestHelmetsGloves.ShopOpen(); - NH Helmets n Gloves
 global/ShopManager/Episode1/NewHillcrestShoes.ShopOpen(); - NH Shoes
+
 global/ShopManager/Episode1/NewHillcrestStarshop.ShopOpen(); - NH Clothes n Gear
 global/ShopManager/Episode1/NewHillcrestTopsPants.ShopOpen(); - NH Tops n Pants
 
