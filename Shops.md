@@ -5,6 +5,7 @@ global/ShopManager/Episode1/RockShop2.ShopOpen(); - Rock Shop
 global/ShopManager/Episode1/MasqueradeShop.ShopOpen(); - Masquerade Shop
 
 global/ShopManager/Episode1/EquestrianFestival_Premium_FestiveEquestrian.ShopOpen(); - Equestrian Festival
+
 global/ShopManager/Episode1/CafeShop_Cafe.ShopOpen(); - Café
 global/ShopManager/Episode1/CafeShop_Restaurant.ShopOpen(); - Restaurant
 global/ShopManager/Episode1/MoorlandBridgeShopNails.ShopOpen(); - Nails for MB
