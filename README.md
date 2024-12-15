@@ -6,5 +6,7 @@ This repository serves as a central hub for sharing, testing, and collaborating 
 
 ## Table of Contents
 
-
+1. Shops
+3. Quests
+4. Other
 
