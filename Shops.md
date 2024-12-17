@@ -15,7 +15,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
   
 ---
 
-## Clothing Shops 👗  
+## Clothing Shops  
 
 | **Shop Name**                 | **Script Command**                                  | **Screenshot**                  |
 |-------------------------------|-----------------------------------------------------|---------------------------------|
