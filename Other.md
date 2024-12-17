@@ -19,8 +19,8 @@ A detailed collection of advanced commands for various gameplay features.
 
 | **Command**                                     | **Description**          |
 |-------------------------------------------------|--------------------------|
-| `/World.SetWorldDrawGlobalSpace(0);`            | Xray Off                |
-| `/World.SetWorldDrawGlobalSpace(1);`            | Xray On                 |
+| `/World.SetWorldDrawGlobalSpace(0);`            | Xray On                  |
+| `/World.SetWorldDrawGlobalSpace(1);`            | Xray Off                 |
 
 ---
 
