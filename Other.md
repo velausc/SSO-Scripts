@@ -74,15 +74,15 @@ A detailed collection of advanced commands for various gameplay features.
 
 ## Special Horse Appearances  
 
-| **Command**                                                                                           | **Description**      | **Screenshot**        |
-|-------------------------------------------------------------------------------------------------------|----------------------|-----------------------|
-| `global/Horse.HorseAppearanceCustomBody(1,1,0); global/Horse.HorseAppearanceCustomHair(15,1,0);`      | Old gray deer.       | ![Old Gray Deer](PATH_TO_IMAGE/old_gray_deer.png) |
-| `global/Horse.HorseAppearanceCustomBody(1,2,0); global/Horse.HorseAppearanceCustomHair(15,1,0);`      | Old white deer.      | ![Old White Deer](PATH_TO_IMAGE/old_white_deer.png) |
-| `global/Horse.HorseAppearanceCustomBody(1,3,0); global/Horse.HorseAppearanceCustomHair(15,1,0);`      | Old Rudolph deer.    | ![Old Rudolph Deer](PATH_TO_IMAGE/old_rudolph_deer.png) |
-| `global/Horse.HorseAppearanceCustomBody(1,4,0); global/Horse.HorseAppearanceCustomHair(15,1,0);`      | Old brown deer.      | ![Old Brown Deer](PATH_TO_IMAGE/old_brown_deer.png) |
-| `global/Horse.HorseAppearanceCustomBody(1,1,0); global/Horse.HorseAppearanceCustomHair(20,1,0);`      | Yule goat.           | ![Yule Goat](PATH_TO_IMAGE/yule_goat.png) |
-| `global/Horse.HorseAppearanceCustomBody(1,1,0); global/Horse.HorseAppearanceCustomHair(22,1,0);`      | Female deer.         | ![Female Deer](PATH_TO_IMAGE/female_deer.png) |
-| `global/Horse.HorseAppearanceCustomBody(1,1,0); global/Horse.HorseAppearanceCustomHair(23,1,0);`      | Bear.                | ![Bear](PATH_TO_IMAGE/bear.png) |
-| `global/Horse.HorseAppearanceCustomBody(1,1,0); global/Horse.HorseAppearanceCustomHair(24,1,0);`      | Moose.               | ![Moose](PATH_TO_IMAGE/moose.png) |
+| **Command**                                                                                           | **Description**      |
+|-------------------------------------------------------------------------------------------------------|----------------------|
+| `global/Horse.HorseAppearanceCustomBody(1,1,0); global/Horse.HorseAppearanceCustomHair(15,1,0);`      | Old gray deer.       | 
+| `global/Horse.HorseAppearanceCustomBody(1,2,0); global/Horse.HorseAppearanceCustomHair(15,1,0);`      | Old white deer.      | 
+| `global/Horse.HorseAppearanceCustomBody(1,3,0); global/Horse.HorseAppearanceCustomHair(15,1,0);`      | Old Rudolph deer.    | 
+| `global/Horse.HorseAppearanceCustomBody(1,4,0); global/Horse.HorseAppearanceCustomHair(15,1,0);`      | Old brown deer.      | 
+| `global/Horse.HorseAppearanceCustomBody(1,1,0); global/Horse.HorseAppearanceCustomHair(20,1,0);`      | Yule goat.           | 
+| `global/Horse.HorseAppearanceCustomBody(1,1,0); global/Horse.HorseAppearanceCustomHair(22,1,0);`      | Female deer.         | 
+| `global/Horse.HorseAppearanceCustomBody(1,1,0); global/Horse.HorseAppearanceCustomHair(23,1,0);`      | Bear.                | 
+| `global/Horse.HorseAppearanceCustomBody(1,1,0); global/Horse.HorseAppearanceCustomHair(24,1,0);`      | Moose.               | 
 
 ---
