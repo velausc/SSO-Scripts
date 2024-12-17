@@ -40,7 +40,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 
 ---
 
-## Gear Shops 🏇 
+## Gear Shops 
 
 | **Shop Name**                 | **Script Command**                                  | **Screenshot**                  |
 |-------------------------------|-----------------------------------------------------|---------------------------------|
@@ -57,7 +57,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 
 ---
 
-## Clothes & Gear Shops 👕🏇  
+## Clothes & Gear Shops  
 
 | **Shop Name**                 | **Script Command**                                  | **Screenshot**                  |
 |-------------------------------|-----------------------------------------------------|---------------------------------|
@@ -77,7 +77,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 
 ---
 
-## Event Shops 🎉  
+## Event Shops  
 
 | **Shop Name**                 | **Script Command**                                  | **Screenshot**                  |
 |-------------------------------|-----------------------------------------------------|---------------------------------|
@@ -87,7 +87,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 
 ---
 
-## Bridge Material Shops 🛠️  
+## Bridge Material Shops  
 
 | **Shop Name**                 | **Script Command**                                  | **Screenshot**                  |
 |-------------------------------|-----------------------------------------------------|---------------------------------|
@@ -101,7 +101,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 
 ---
 
-## Miscellaneous Shops 🌟  
+## Miscellaneous Shops 
 
 | **Shop Name**                 | **Script Command**                                  | **Screenshot**                  |
 |-------------------------------|-----------------------------------------------------|---------------------------------|
