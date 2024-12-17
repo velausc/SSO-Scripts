@@ -21,7 +21,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 |-------------------------------|-----------------------------------------------------|---------------------------------|
 | **Jamie Olivetree Clothes**   | `global/ShopManager/Episode1/JamieOlivetreeClothesShop.ShopOpen();` | ![Jamie Olivetree](screenshots/jamieolivetree_shop.png) |
 | **Fashion Week Shop**         | `global/ShopManager/Episode1/QC2123_FashionWeekQuest.ShopOpen();`  | ![Fashion Week](screenshots/fashion_week.png) |
-| **Paddock Island Clothes**    | `global/ShopManager/Episode1/PaddockIslandStarShop.ShopOpen();` | ![PI Clothes](screenshots/pi_clothes.png) |
+| **Paddock Island Clothes**    | `global/ShopManager/Episode1/PaddockIslandStarShop.ShopOpen();` | ![PI Clothes](screenshots/pi_clothes1.png) <br> - ![PI Clothes 2 ](screenshots/pi_clothes2.png) |
 | **South Hoof Clothes**        | `global/ShopManager/Episode1/SouthHoofClothesShop.ShopOpen();` | ![SH Clothes](screenshots/sh_clothes.png) |
 | **Silverglade Clothes**       | `global/ShopManager/Episode1/SilvergladeVillageShop1_Clothes.ShopOpen();` | ![SV Clothes](screenshots/silverglade_clothes.png) |
 | **Firgrove Clothes**          | `global/ShopManager/Episode1/FirgroveShop_Clothes.ShopOpen();` | ![FG Clothes](screenshots/firgrove_clothes.png) |
