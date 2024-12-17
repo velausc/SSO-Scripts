@@ -93,17 +93,6 @@ global/ShopManager/Episode1/FV_FishingTool.ShopOpen(); - Fishing Clothes
 global/ShopManager/Episode1/JorvikStableStar1.ShopOpen(); - Jorvik Stables Clothes n Gear
 
 
-# Pets
-global/ShopManager/Episode1/Goldspur_WalkingPetSquirrelShop.ShopOpen(); - Squirrels
-global/ShopManager/Episode1/WinterVillage_Pets.ShopOpen(); - Christmas Pets
-global/ShopManager/Episode1/JamieOlivetreePetShop.ShopOpen(); - JO Pets
-global/ShopManager/Episode1/JarlaheimPetStore.ShopOpen(); - Jarlaheim Pets
-global/ShopManager/Episode1/FortPintaPetStore.ShopOpen(); - FP Pets
-global/ShopManager/Episode1/FortPinta_Pet_New.ShopOpen(); - FP Pets New
-global/ShopManager/Episode1/FortPinta_SeagullShop.ShopOpen(); - Seagulls
-global/ShopManager/Episode1/Firgrove_Pets.ShopOpen(); - Firgrove Squirrels
-
-# Star Stable Online Shops  
 
 Welcome to the **Star Stable Online Shops** list! This file includes shop names, their scripts, and screenshots for better clarity.
 
@@ -120,7 +109,7 @@ Welcome to the **Star Stable Online Shops** list! This file includes shop names,
 
 ## Clothing Shops 👗  
 
-| **Shop Name**                 | **Script Command**                                   | **Screenshot**                  |
+| **Shop Name**                 | **Script Command**                                  | **Screenshot**                  |
 |-------------------------------|-----------------------------------------------------|---------------------------------|
 | **Jamie Olivetree Clothes**   | `global/ShopManager/Episode1/JamieOlivetreeClothesShop.ShopOpen();` | ![Jamie Olivetree](screenshots/jamie_clothes.png) |
 | **Fashion Week Shop**         | `global/ShopManager/Episode1/QC2123_FashionWeekQuest.ShopOpen();`  | ![Fashion Week](screenshots/fashion_week.png)     |
@@ -130,7 +119,7 @@ Welcome to the **Star Stable Online Shops** list! This file includes shop names,
 
 ## Gear Shops 🛠️  
 
-| **Shop Name**                 | **Script Command**                                   | **Screenshot**                  |
+| **Shop Name**                 | **Script Command**                                  | **Screenshot**                  |
 |-------------------------------|-----------------------------------------------------|---------------------------------|
 | **Rock Shop 1**               | `global/ShopManager/Episode1/RockShop.ShopOpen();`  | ![Rock Shop 1](screenshots/rock_shop1.png)        |
 | **Rock Shop 2**               | `global/ShopManager/Episode1/RockShop2.ShopOpen();` | ![Rock Shop 2](screenshots/rock_shop2.png)        |
@@ -138,9 +127,13 @@ Welcome to the **Star Stable Online Shops** list! This file includes shop names,
 
 ---
 
+## All-together Shops
+
+|**Shop Name**                  | **Script Command**                                  | **Screenshot**                  |
+
 ## Event Shops 🎉  
 
-| **Shop Name**                 | **Script Command**                                   | **Screenshot**                  |
+| **Shop Name**                 | **Script Command**                                  | **Screenshot**                  |
 |-------------------------------|-----------------------------------------------------|---------------------------------|
 | **Equestrian Festival Shop**  | `global/ShopManager/Episode1/EquestrianFestival_Premium_FestiveEquestrian.ShopOpen();` | ![Equestrian Festival](screenshots/equestrian_festival.png) |
 | **Christmas Market**          | `global/ShopManager/Episode1/MagicChristmasMarketShop_A.ShopOpen();` | ![Christmas Market](screenshots/christmas_market.png)       |
@@ -150,7 +143,7 @@ Welcome to the **Star Stable Online Shops** list! This file includes shop names,
 
 ## Bridge Material Shops 🪵  
 
-| **Shop Name**                 | **Script Command**                                   | **Screenshot**                  |
+| **Shop Name**                 | **Script Command**                                  | **Screenshot**                  |
 |-------------------------------|-----------------------------------------------------|---------------------------------|
 | **Moorland Bridge: Nails**    | `global/ShopManager/Episode1/MoorlandBridgeShopNails.ShopOpen();`  | ![MB Nails](screenshots/moorland_nails.png)      |
 | **Moorland Bridge: Planks**   | `global/ShopManager/Episode1/MoorlandBridgeShopPlank.ShopOpen();`  | ![MB Planks](screenshots/moorland_planks.png)    |
@@ -160,20 +153,15 @@ Welcome to the **Star Stable Online Shops** list! This file includes shop names,
 
 ## Pet Shops 🐾  
 
-| **Shop Name**                 | **Script Command**                                   | **Screenshot**                  |
+| **Shop Name**                 | **Script Command**                                  | **Screenshot**                  |
 |-------------------------------|-----------------------------------------------------|---------------------------------|
 | **Walking Pet Squirrels**     | `global/ShopManager/Episode1/Goldspur_WalkingPetSquirrelShop.ShopOpen();` | ![Squirrels](screenshots/squirrels.png) |
 | **Christmas Pets**            | `global/ShopManager/Episode1/WinterVillage_Pets.ShopOpen();`        | ![Christmas Pets](screenshots/christmas_pets.png) |
 | **Jarlaheim Pets**            | `global/ShopManager/Episode1/JarlaheimPetStore.ShopOpen();`         | ![Jarlaheim Pets](screenshots/jarlaheim_pets.png) |
 | **Fort Pinta Pets**           | `global/ShopManager/Episode1/FortPintaPetStore.ShopOpen();`         | ![FP Pets](screenshots/fort_pinta_pets.png) |
+| **Jamie Olivetree Pets**      | `global/ShopManager/Episode1/JamieOlivetreePetShop.ShopOpen();`     | ![JO Pets](screenshots/jamieolivetree_pets.png) |   
+| **Fort Pinta New Pets**       | `global/ShopManager/Episode1/FortPinta_Pet_New.ShopOpen();`         | ![FPN Pets](screenshots/fortpintanew_pets.png) |
+| **Seagulls**                  | `global/ShopManager/Episode1/FortPinta_SeagullShop.ShopOpen();`     | ![Seagulls](screenshots/seagulls.png) |
+| **Firgrove Squirrels**        | `global/ShopManager/Episode1/Firgrove_Pets.ShopOpen();`             | ![FG Pets](screenshots/firgrove_squirrels.png) |
 
 ---
-
-## Notes 📝  
-
-- Replace `screenshots/shop_name.png` with the actual paths to your images or screenshots.  
-- Keep images at a consistent resolution for a clean look.  
-
----
-
-
