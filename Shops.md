@@ -19,7 +19,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 
 | **Shop Name**                 | **Script Command**                                  | **Screenshot**                  |
 |-------------------------------|-----------------------------------------------------|---------------------------------|
-| **Jamie Olivetree Clothes**   | `global/ShopManager/Episode1/JamieOlivetreeClothesShop.ShopOpen();` | ![Jamie Olivetree](screenshots/jamie_olivetree.png) |
+| **Jamie Olivetree Clothes**   | `global/ShopManager/Episode1/JamieOlivetreeClothesShop.ShopOpen();` | ![Jamie Olivetree](![image](https://github.com/user-attachments/assets/9b3ce46d-4589-40bd-8b2a-2d7a9c831475)) |
 | **Fashion Week Shop**         | `global/ShopManager/Episode1/QC2123_FashionWeekQuest.ShopOpen();`  | ![Fashion Week](screenshots/fashion_week.png) |
 | **Paddock Island Clothes**    | `global/ShopManager/Episode1/PaddockIslandStarShop.ShopOpen();` | ![PI Clothes](screenshots/pi_clothes.png) |
 | **South Hoof Clothes**        | `global/ShopManager/Episode1/SouthHoofClothesShop.ShopOpen();` | ![SH Clothes](screenshots/sh_clothes.png) |
@@ -37,6 +37,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Harvest County Fishing Shop** | `global/ShopManager/Episode1/HarvestCountyFishhingStore.ShopOpen();` | ![HV Fishing Shop](screenshots/hv_fishing_shop.png) |
 | **Jorvik Mall Costumes**      | `global/ShopManager/Episode1/MallCostumeShop_Costumes.ShopOpen();` | ![Jorvik Mall Costumes](screenshots/jorvik_mall_costumes.png) |
 | **Fishing Clothes**           | `global/ShopManager/Episode1/FV_FishingTool.ShopOpen();` | ![Fishing Clothes](screenshots/fishing_clothes.png) |
+| **Jarlaheim Clothes**         | `global/ShopManager/Episode1/JarlaheimClothesShop1.ShopOpen();` | ![Jarlaheim Clothes](screenshots/jarlaheim_clothes.png) |
 
 ---
 
@@ -54,6 +55,11 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Fort Pinta Gear**           | `global/ShopManager/Episode1/FortPintaShop_Gear.ShopOpen();` | ![FP Gear](screenshots/fortpinta_gear.png) |
 | **Moorland Stables Gear**     | `global/ShopManager/Episode1/MoorlandStablesShop_Gear.ShopOpen();` | ![Moorland Gear](screenshots/moorland_gear.png) |
 | **Jorvik Mall Gear**          | `global/ShopManager/Episode1/MallCostumeShop_HorseGear.ShopOpen();` | ![Jorvik Mall Gear](screenshots/jorvik_mall_gear.png) |
+| **Jarlaheim Gear**            | `global/ShopManager/Episode1/JarlaheimGearShop1.ShopOpen();` | ![Jarlaheim Gear](screenshots/jarlaheim_gear.png)  |
+| **Jarlaheim Horse Decorations** | `global/ShopManager/Episode1/JarlaheimHorseDecoration.ShopOpen();` | ![Jarlaheim Horse Decorations](screenshots/jarlaheim_horse_decor.png) |
+| **Mega Horse Decorations**    | `global/ShopManager/Episode1/MegaHorseDecorationShop.ShopOpen();` | ![Mega Horse Decorations](screenshots/mega_horse_decor.png) |
+| **Jarlaheim Bags**            | `global/ShopManager/Episode1/JarlaheimBagshop.ShopOpen();` | ![Jarlaheim Bags](screenshots/jarlaheim_bags.png) |
+| **Firgrove Bags**             | `global/ShopManager/Episode1/Firgrove_Bags.ShopOpen();` | ![Firgrove Bags](screenshots/firgrove_bags.png) |
 
 ---
 
@@ -74,6 +80,11 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Bulldogz Outfit**           | `global/ShopManager/Episode1/BulldogzStore_Faction.ShopOpen();` | ![Bulldogz Outfit](screenshots/bulldogz_outfit.png) |
 | **New Lifetime Shop (Clothes, Gear, and Pet)** | `global/ShopManager/Episode1/NewLifetimeShop.ShopOpen();` | ![New Lifetime Shop](screenshots/new_lifetime_shop.png) |
 | **Observatory Shop**          | `global/ShopManager/Episode1/ObservatoryStore.ShopOpen();` | ![Observatory Shop](screenshots/observatory_shop.png) |
+| **South Hoof Shop**           | `global/ShopManager/Episode1/SouthHoofOtherShop.ShopOpen();` | ![SH Shop](screenshots/sh_shop.png) |
+| **SV Shop**                   | `global/ShopManager/Episode1/SilvergladeVillageShop2_Faction.ShopOpen();` | ![SV Shop](screenshots/sv_shop.png) |
+| **Fort Pinta Shop**           | `global/ShopManager/Episode1/FortPintaShop_Faction.ShopOpen();` | ![FP Shop](screenshots/fp_shop.png) |
+| **Firgrove Shop**             | `global/ShopManager/Episode1/FirgroveShop_Faction.ShopOpen();` | ![FG Shop](screenshots/fg_shop.png) |
+| **Moorland Stables Shop**     | `global/ShopManager/Episode1/MoorlandStablesShop_Faction.ShopOpen();` | ![Moorland Shop](screenshots/moorland_shop.png) |
 
 ---
 
@@ -106,9 +117,12 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Shop Name**                 | **Script Command**                                   | **Screenshot**                 |
 |-------------------------------|-----------------------------------------------------|---------------------------------|
 | **Walking Pet Squirrels**     | `global/ShopManager/Episode1/Goldspur_WalkingPetSquirrelShop.ShopOpen();` | ![Squirrels](screenshots/squirrels.png) |
+| **Firgrove Squirrels**        | `global/ShopManager/Episode1/Firgrove_Pets.ShopOpen();` | ![FG Pets](screenshots/firgrove_squirrels.png) |
 | **Christmas Pets**            | `global/ShopManager/Episode1/WinterVillage_Pets.ShopOpen();` | ![Christmas Pets](screenshots/christmas_pets.png) |
 | **Jarlaheim Pets**            | `global/ShopManager/Episode1/JarlaheimPetStore.ShopOpen();`  | ![Jarlaheim Pets](screenshots/jarlaheim_pets.png) |
 | **Fort Pinta Pets**           | `global/ShopManager/Episode1/FortPintaPetStore.ShopOpen();`  | ![FP Pets](screenshots/fort_pinta_pets.png) |
+| **Fort Pinta New Pets**       | `global/ShopManager/Episode1/FortPinta_Pet_New.ShopOpen();`  | ![FPN Pets](screenshots/fortpintanew_pets.png) |
+| **Seagulls**                  | `global/ShopManager/Episode1/FortPinta_SeagullShop.ShopOpen();` | ![Seagulls](screenshots/seagulls.png) |
 
 ---
 
@@ -117,7 +131,8 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Shop Name**                 | **Script Command**                                  | **Screenshot**                  |
 |-------------------------------|-----------------------------------------------------|---------------------------------|
 | **Ice Cream Café**            | `global/ShopManager/Episode1/CafeShop_IceCream.ShopOpen();` | ![Ice Cream](screenshots/ice_cream.png) |
+| **Café**             | `global/ShopManager/Episode1/CafeShop_Cafe.ShopOpen();` | ![Cafe](screenshots/cafe_shop.png) |
+| **Restaurant**       | `global/ShopManager/Episode1/CafeShop_Restaurant.ShopOpen();` | ![Restaurant](screenshots/cafe_restaurant.png) |
 | **Horse Food Shop**           | `global/ShopManager/Episode1/GenericHorseUtilitiesShop.ShopOpen();` | ![Horse Food](screenshots/horse_food.png) |
 | **Masquerade Shop**           | `global/ShopManager/Episode1/MasqueradeShop.ShopOpen();` | ![Masquerade](screenshots/masquerade_shop.png) |
-
----
+| **Jarlaheim Glasses**         | `global/ShopManager/Episode1/JarlaheimGlassesShop.ShopOpen();` | ![Jarlaheim Glasses](screenshots/jarlaheim_glasses.png) |
