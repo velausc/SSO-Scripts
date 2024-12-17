@@ -40,7 +40,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 
 ---
 
-## Gear Shops 🛠️  
+## Gear Shops 🏇  
 
 | **Shop Name**                 | **Script Command**                                  | **Screenshot**                  |
 |-------------------------------|-----------------------------------------------------|---------------------------------|
@@ -87,7 +87,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 
 ---
 
-## Bridge Material Shops 🪵  
+## Bridge Material Shops 🛠️  
 
 | **Shop Name**                 | **Script Command**                                  | **Screenshot**                  |
 |-------------------------------|-----------------------------------------------------|---------------------------------|
