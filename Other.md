@@ -12,6 +12,8 @@ global/HorseForSaleInfoWindow/RenderViews/RenderTargetView/Scene/Animation/Horse
 
 global/Horse.HorseRestoreAppearance(); - Restore horse appearance
 
+global/Horse/Skin/Pelvis.SetSkinMeshSubsetMaterial("HorseBody", "horse coat name"); - Horse body and coat appearance
+
 global/GlobalTimer.SetTimerTime(12); - Day time
 
 global/ForcePlayerFromRestrictedArea.Delete();global/ForcePlayerBackToMoorland.Delete();global/GlobalSpaceObjects/WorldBlockCollsion.Delete(); - Bypass restricted area
