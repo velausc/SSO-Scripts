@@ -19,7 +19,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 
 | **Shop Name**                 | **Script Command**                                  | **Screenshot**                  |
 |-------------------------------|-----------------------------------------------------|---------------------------------|
-| **Jamie Olivetree Clothes**   | `global/ShopManager/Episode1/JamieOlivetreeClothesShop.ShopOpen();` | ![Jamie Olivetree](![image](https://github.com/user-attachments/assets/9b3ce46d-4589-40bd-8b2a-2d7a9c831475) |
+| **Jamie Olivetree Clothes**   | `global/ShopManager/Episode1/JamieOlivetreeClothesShop.ShopOpen();` | ![Jamie Olivetree](screenshots/jamie_olivetree.png) |
 | **Fashion Week Shop**         | `global/ShopManager/Episode1/QC2123_FashionWeekQuest.ShopOpen();`  | ![Fashion Week](screenshots/fashion_week.png) |
 | **Paddock Island Clothes**    | `global/ShopManager/Episode1/PaddockIslandStarShop.ShopOpen();` | ![PI Clothes](screenshots/pi_clothes.png) |
 | **South Hoof Clothes**        | `global/ShopManager/Episode1/SouthHoofClothesShop.ShopOpen();` | ![SH Clothes](screenshots/sh_clothes.png) |
