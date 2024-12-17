@@ -7,6 +7,6 @@ This repository serves as a central hub for sharing, testing, and collaborating 
 ## Table of Contents
 
 1. [Shops](Shops.md)
-3. [Quests](Quests.md)
-4. [Other](Other.md)
-
+2. [Quests](Quests.md)
+3. [Other](Other.md)
+4. [Reputations](Reputations.md)
