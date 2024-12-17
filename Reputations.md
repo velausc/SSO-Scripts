@@ -43,7 +43,7 @@ A complete list of faction reputation commands for **Star Stable Online**, organ
 |----------------------------------|------------------------------------------------------|
 | **Baroness Racetrack**           | `global/FactionManager/BaronessRacetrack.FactionSetReputation(6001);` |
 | **Crescent Village**             | `global/FactionManager/CrescentVillage.FactionSetReputation(6001);` |
-| **Forgotten Fields Stable**      | `global/FactionManager/ForgottenFieldsStable.FactionSetReputation(6001);` |
+| **Forgotten Fields**             | `global/FactionManager/ForgottenFieldsStable.FactionSetReputation(6001);` |
 | **Fort Maria**                   | `global/FactionManager/FortMaria.FactionSetReputation(6001);` |
 | **Fort Pinta**                   | `global/FactionManager/FortPinta.FactionSetReputation(6001);` |
 | **GED Jarlaheim Office**         | `global/FactionManager/GED_JarlaheimOffice.FactionSetReputation(6001);` |
