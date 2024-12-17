@@ -1,22 +1,5 @@
 # Shops
 
-A complete list of shop scripts for **Star Stable Online**, organized by category. Includes scripts and placeholders for screenshots.  
-
----
-
-## Table of Contents  
-1. [Clothing Shops](#clothing-shops)  
-2. [Gear Shops](#gear-shops)  
-3. [Clothes & Gear Shops](#clothes--gear-shops)  
-4. [Event Shops](#event-shops)  
-5. [Bridge Material Shops](#bridge-material-shops)  
-6. [Pet Shops](#pet-shops)  
-7. [Miscellaneous Shops](#miscellaneous-shops)
-  
----
-
-# Shops
-
 A complete list of shop scripts for **Star Stable Online**, organized by category.
 
 ---
