@@ -11,8 +11,8 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 4. [Event Shops](#event-shops)  
 5. [Bridge Material Shops](#bridge-material-shops)  
 6. [Pet Shops](#pet-shops)  
-7. [Miscellaneous Shops](#miscellaneous-shops)  
-
+7. [Miscellaneous Shops](#miscellaneous-shops)
+8. 
 ---
 
 ## Clothing Shops 👗  
