@@ -7,7 +7,7 @@ A detailed collection of advanced commands for various gameplay features.
 ## Table of Contents  
 1. [World Settings](#world-settings)  
 2. [Camera Modes](#camera-modes)  
-3. [Horse Appearance](#horse-appearance)  
+3. [Horse](#horse)  
 4. [Environment Settings](#environment-settings)  
 5. [Bypass Restrictions](#bypass-restrictions)  
 6. [UI](#ui)
@@ -33,7 +33,7 @@ A detailed collection of advanced commands for various gameplay features.
 
 ---
 
-## Horse Appearance  
+## Horse  
 
 | **Command**                                                                                            | **Description**                           |
 |--------------------------------------------------------------------------------------------------------|-------------------------------------------|
@@ -41,6 +41,7 @@ A detailed collection of advanced commands for various gameplay features.
 | `global/HorseForSaleInfoWindow/RenderViews/RenderTargetView/Scene/Animation/Horse.CloneHorse(0, 0); global/HorseForSaleInfoWindow/RenderViews/RenderTargetView/Scene/Animation/Horse.HorseForSaleStartBuyWindow();` | Open the horse purchase window. |
 | `global/Horse.HorseRestoreAppearance();`                                                               | Restore the horse's default appearance. |
 | `global/Horse/Skin/Pelvis.SetSkinMeshSubsetMaterial("HorseBody", "horse coat name");`                  | Set horse body and coat appearance. |
+| `global/Network.NetworkHorseFreeWellbeing();`                                                          | Free horse well being. |
 
 ---
 
