@@ -112,7 +112,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 
 ---
 
-## Pet Shop
+## Pets Shop
 
 | **Shop Name**                 | **Script Command**                                   | **Screenshot**                 |
 |-------------------------------|-----------------------------------------------------|---------------------------------|
