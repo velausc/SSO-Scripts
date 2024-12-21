@@ -38,6 +38,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Jorvik Mall Costumes**      | `global/ShopManager/Episode1/MallCostumeShop_Costumes.ShopOpen();` |
 | **Fishing Clothes**           | `global/ShopManager/Episode1/FV_FishingTool.ShopOpen();` |
 | **Jarlaheim Clothes**         | `global/ShopManager/Episode1/JarlaheimClothesShop1.ShopOpen();` |
+| **Miscreants Clothes**        | `global/ShopManager/Episode1/MiscreantsShop.ShopOpen();` |
 
 ---
 
@@ -95,6 +96,12 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Equestrian Festival Shop**  | `global/ShopManager/Episode1/EquestrianFestival_Premium_FestiveEquestrian.ShopOpen();` |
 | **Christmas Market**          | `global/ShopManager/Episode1/MagicChristmasMarketShop_A.ShopOpen();` |
 | **Christmas Costumes**        | `global/ShopManager/Episode1/MagicChristmasMarketShop_Costumes.ShopOpen();` |
+| **Christmas Lanterns**        | `global/ShopManager/Episode1/WinterVillage_ChineseLanternShop.ShopOpen();` |
+| **Christmas Discounts**       | `global/ShopManager/Episode1/WinterVillage_DiscountShop.ShopOpen();` |
+| **Winter Token Shop**         | `global/ShopManager/Episode1/Shopkeeper_WinterToken.ShopOpen();` |
+| **Old n New Christmas Clothes/Gear** | `global/ShopManager/Episode1/Shopkeeper_DressWarm.ShopOpen();` |
+| **Christmas Flea Market**     | `global/ShopManager/Episode1/MagicChristmasMarketShop_FleaMarket.ShopOpen();` |
+| **Christmas Outfits**         | `global/ShopManager/Episode1/Shopkeeper_WinterOutdoors.ShopOpen();` |
 
 ---
 
@@ -136,5 +143,6 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Horse Food Shop**           | `global/ShopManager/Episode1/GenericHorseUtilitiesShop.ShopOpen();` |
 | **Masquerade Shop**           | `global/ShopManager/Episode1/MasqueradeShop.ShopOpen();` |
 | **Jarlaheim Glasses**         | `global/ShopManager/Episode1/JarlaheimGlassesShop.ShopOpen();` |
+| **Fireworks**                 | `global/ShopManager/Episode1/NewYearFireworkShop.ShopOpen();` |
 
 ---
