@@ -1,6 +1,9 @@
 # Advanced Animation Commands
 
 A detailed collection of animation commands for various gameplay features.
+
+---
+
 NOT FINISHED!
 
 ---
@@ -105,11 +108,32 @@ NOT FINISHED!
 |--------------------------------------------------|--------------------------|
 | `global/Player.PlayerTPNetPlayAnimation("Meditation");`             | Action: Meditation                |
 | `global/Player.PlayerTPNetPlayAnimation("PushUp");`                 | Action: Push-Up                   |
+| `global/Player.PlayerTPNetPlayAnimation("Wardrobe");`               | Action: Wardrobe                  |
+| `global/Player.PlayerTPNetPlayAnimation("Wardrobe_Face");`          | Action: Wardrobe Face             |
+| `global/Player.PlayerTPNetPlayAnimation("WagonLift");`              | Action: Wagon Lift                |
+| `global/Player.PlayerTPNetPlayAnimation("Sprinkle");`               | Action: Sprinkle                  |
+| `global/Player.PlayerTPNetPlayAnimation("WipeTable");`              | Action: Wipe Table                |
+| `global/Player.PlayerTPNetPlayAnimation("Knit");`                   | Action: Knit                      |
+| `global/Player.PlayerTPNetPlayAnimation("Knock");`                  | Action: Knock                     |
 | `global/Player.PlayerTPNetPlayAnimation("ActionMine");`             | Action: Mine                      |
 | `global/Player.PlayerTPNetPlayAnimation("ActionChainsaw");`         | Action: Chainsaw                  |
 | `global/Player.PlayerTPNetPlayAnimation("ActionPreWand");`          | Action: Pre-Wand                  |
 | `global/Player.PlayerTPNetPlayAnimation("ActionWand1");`            | Action: Wand 1                    |
 | `global/Player.PlayerTPNetPlayAnimation("ActionWand2");`            | Action: Wand 2                    |
+| `global/Player.PlayerTPNetPlayAnimation("IdleShivering");`          | Action: Idle Shivering            |
+| `global/Player.PlayerTPNetPlayAnimation("Idle");`                   | Action: Idle                      |
+| `global/Player.PlayerTPNetPlayAnimation("Idle_01");`                | Action: Idle 1                    |
+| `global/Player.PlayerTPNetPlayAnimation("Idle_02");`                | Action: Idle 2                    |
+| `global/Player.PlayerTPNetPlayAnimation("Idle_03");`                | Action: Idle 3                    |
+| `global/Player.PlayerTPNetPlayAnimation("Idle_04");`                | Action: Idle 4                    |
+| `global/Player.PlayerTPNetPlayAnimation("Idle_05");`                | Action: Idle 5                    |
+| `global/Player.PlayerTPNetPlayAnimation("IdleJump");`               | Action: Idle Jump                 |
+| `global/Player.PlayerTPNetPlayAnimation("SpecialJump");`            | Action: Special Jump              |
+| `global/Player.PlayerTPNetPlayAnimation("Jump");`                   | Action: Jump                      |
+| `global/Player.PlayerTPNetPlayAnimation("Run");`                    | Action: Run                       |
+| `global/Player.PlayerTPNetPlayAnimation("RunLft");`                 | Action: Run Left                  |
+| `global/Player.PlayerTPNetPlayAnimation("RunRgt");`                 | Action: Run Right                 |
+| `global/Player.PlayerTPNetPlayAnimation("RunReverse");`             | Action: Run Reverse               |
 | `global/Player.PlayerTPNetPlayAnimation("CleanAction");`            | Action: Clean                     |
 | `global/Player.PlayerTPNetPlayAnimation("CleanFloor");`             | Action: Clean Floor               |
 | `global/Player.PlayerTPNetPlayAnimation("Climb1Down");`             | Action: Climb Down                |
@@ -121,6 +145,11 @@ NOT FINISHED!
 | `global/Player.PlayerTPNetPlayAnimation("CraftingWeaving");`        | Action: Crafting Weaving          |
 | `global/Player.PlayerTPNetPlayAnimation("Drink");`                  | Action: Drink                     |
 | `global/Player.PlayerTPNetPlayAnimation("Fishing");`                | Action: Fishing                   |
+| `global/Player.PlayerTPNetPlayAnimation("Reverse");`                | Action: Reverse                   |
+| `global/Player.PlayerTPNetPlayAnimation("CustomizeIdle");`          | Action: Customize Idle            |
+| `global/Player.PlayerTPNetPlayAnimation("Wash");`                   | Action: Wash                      |
+| `global/Player.PlayerTPNetPlayAnimation("Water");`                  | Action: Water                     |
+| `global/Player.PlayerTPNetPlayAnimation("WaterLow");`               | Action: Water Low                 |
 | `global/Player.PlayerTPNetPlayAnimation("FeedHorseCake");`          | Action: Feed Horse Cake           |
 | `global/Player.PlayerTPNetPlayAnimation("Groom");`                  | Action: Groom                     |
 | `global/Player.PlayerTPNetPlayAnimation("HoofPick");`               | Action: Hoof Pick                 |
@@ -134,6 +163,7 @@ NOT FINISHED!
 | `global/Player.PlayerTPNetPlayAnimation("FoalFeed");`               | Action: Foal Feed                 |
 | `global/Player.PlayerTPNetPlayAnimation("FoalSoap");`               | Action: Foal Soap                 |
 | `global/Player.PlayerTPNetPlayAnimation("GroomLow");`               | Action: Groom Low                 |
+| `global/Player.PlayerTPNetPlayAnimation("ThrowIdle");`              | Action: Throw Idle                |
 | `global/Player.PlayerTPNetPlayAnimation("Throw");`                  | Action: Throw                     |
 | `global/Player.PlayerTPNetPlayAnimation("BeeIdle");`                | Action: Bee Idle                  |
 | `global/Player.PlayerTPNetPlayAnimation("BeeRun");`                 | Action: Bee Run                   |
@@ -147,17 +177,15 @@ NOT FINISHED!
 | `global/Player.PlayerTPNetPlayAnimation("HalterGrab");`             | Action: Halter Grab               |
 | `global/Player.PlayerTPNetPlayAnimation("HalterIdle");`             | Action: Halter Idle               |
 | `global/Player.PlayerTPNetPlayAnimation("HalterWalk");`             | Action: Halter Walk               |
-| `global/Player.PlayerTPNetPlayAnimation("Idle");`                   | Action: Idle                      |
-| `global/Player.PlayerTPNetPlayAnimation("Idle_01");`                | Action: Idle 1                    |
-| `global/Player.PlayerTPNetPlayAnimation("Idle_02");`                | Action: Idle 2                    |
-| `global/Player.PlayerTPNetPlayAnimation("Idle_03");`                | Action: Idle 3                    |
-| `global/Player.PlayerTPNetPlayAnimation("Idle_04");`                | Action: Idle 4                    |
-| `global/Player.PlayerTPNetPlayAnimation("Idle_05");`                | Action: Idle 5                    |
-| `global/Player.PlayerTPNetPlayAnimation("IdleJump");`               | Action: Idle Jump                 |
-| `global/Player.PlayerTPNetPlayAnimation("Jump");`                   | Action: Jump                      |
-| `global/Player.PlayerTPNetPlayAnimation("Knit");`                   | Action: Knit                      |
-| `global/Player.PlayerTPNetPlayAnimation("Knock");`                  | Action: Knock                     |
-| `global/Player.PlayerTPNetPlayAnimation("Run");`                    | Action: Run                       |
+| `global/Player.PlayerTPNetPlayAnimation("StepInPlace");`            | Action: Step In Place             |
+| `global/Player.PlayerTPNetPlayAnimation("Walk");`                   | Action: Walk                      |
+| `global/Player.PlayerTPNetPlayAnimation("CarryWalk");`              | Action: Carry Walk                |
+| `global/Player.PlayerTPNetPlayAnimation("WalkLft");`                | Action: Walk Left                 |
+| `global/Player.PlayerTPNetPlayAnimation("WalkRgt");`                | Action: Walk Right                |
+| `global/Player.PlayerTPNetPlayAnimation("TurnLeft45");`             | Action: Turn Left                 |
+| `global/Player.PlayerTPNetPlayAnimation("TurnRight45");`            | Action: Turn Right                |
+| `global/Player.PlayerTPNetPlayAnimation("Talk");`                   | Action: Talk                      |
+| `global/Player.PlayerTPNetPlayAnimation("Talk_01");`                | Action: Talk 1                    |
 | `global/Player.PlayerTPNetPlayAnimation("OperateGeneric");`         | Action: Operate Generic           |
 | `global/Player.PlayerTPNetPlayAnimation("OperateGenericLow");`      | Action: Operate Generic Low       |
 | `global/Player.PlayerTPNetPlayAnimation("OperateGenericLowShort");` | Action: Operate Generic Low Short |
