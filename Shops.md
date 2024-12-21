@@ -61,6 +61,8 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Mega Horse Decorations**    | `global/ShopManager/Episode1/MegaHorseDecorationShop.ShopOpen();` |
 | **Jarlaheim Bags**            | `global/ShopManager/Episode1/JarlaheimBagshop.ShopOpen();` |
 | **Firgrove Bags**             | `global/ShopManager/Episode1/Firgrove_Bags.ShopOpen();` |
+| **Bazaar Equipment**          | `global/ShopManager/Episode1/Bazaar_EquipmentShop.ShopOpen();` |
+
 
 ---
 
@@ -86,6 +88,26 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Fort Pinta Shop**           | `global/ShopManager/Episode1/FortPintaShop_Faction.ShopOpen();` |
 | **Firgrove Shop**             | `global/ShopManager/Episode1/FirgroveShop_Faction.ShopOpen();` |
 | **Moorland Stables Shop**     | `global/ShopManager/Episode1/MoorlandStablesShop_Faction.ShopOpen();` |
+| **Baroness Racetrack Clothes & Gear** | `global/ShopManager/Episode1/BaronessRacetrackShopKeeperClothersGear.ShopOpen();` |
+| **Baroness Racetrack Rep Clothes & Gear** | `global/ShopManager/Episode1/BaronessRacetrackShopKeeperReputation.ShopOpen();` |
+| **Fort Pinta Championship**   | `global/ShopManager/Episode1/FortPintaChamp_RepVendor.ShopOpen();` |
+| **Moorland Championship**     | `global/ShopManager/Episode1/MoorlandChamp_RepVendor.ShopOpen();` |
+| **JERC Championship**         | `global/ShopManager/Episode1/JERC_RepVendor.ShopOpen();` |
+| **Pony Championship**         | `global/ShopManager/Episode1/PonyChamp_RepVendor.ShopOpen();` |
+| **Valedale Championship**     | `global/ShopManager/Episode1/ValedaleChamp_RepVendor.ShopOpen();` |
+| **Medieval Arena Shop**       | `global/ShopManager/Episode1/MedievalArena_ClothingGearShop.ShopOpen();` |
+| **Druid Clothes**             | `global/ShopManager/Episode1/Travelling_DruidClothes.ShopOpen();` |
+| **Travelling Market Gear**    | `global/ShopManager/Episode1/TravellingMarketGear2.ShopOpen();` |
+| **Starshine Ranch Clothes & Gear** | `global/ShopManager/Episode1/StarshineRanchClothesGearShop.ShopOpen();` |
+| **Whimsy Shop**               | `global/ShopManager/Episode1/HollowWoods_WhimsyShop.ShopOpen();` |
+| **Runology Shop**             | `global/ShopManager/Episode1/HollowWoods_RunologyShop.ShopOpen();` |
+| **Terra Shop**                | `global/ShopManager/Episode1/HollowWoods_TerraShop.ShopOpen();` |
+| **Tailtop Village Gear & Clothes** | `global/ShopManager/Episode1/TailtopVillageShopKeeperClothersGear.ShopOpen();` |
+| **Mystics Shop**              | `global/ShopManager/Episode1/TailtopVillageShopKeeperMysticsReputation.ShopOpen();` |
+| **warriors Shop**             | `global/ShopManager/Episode1/TailtopVillageShopKeeperWarriorReputation.ShopOpen();` |
+| **Foresters Shop**            | `global/ShopManager/Episode1/TailtopVillageShopKeeperForestersReputation.ShopOpen(); ` |
+| **Redwood Point Gear & Clothes** | `global/ShopManager/Episode1/RedwoodPointShopClothesGear.ShopOpen();` |
+| **RP Gear & Clothes**         | `global/ShopManager/Episode1/RedwoodPointShopRangerReputation.ShopOpen();` |
 
 ---
 
@@ -99,9 +121,11 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Christmas Lanterns**        | `global/ShopManager/Episode1/WinterVillage_ChineseLanternShop.ShopOpen();` |
 | **Christmas Discounts**       | `global/ShopManager/Episode1/WinterVillage_DiscountShop.ShopOpen();` |
 | **Winter Token Shop**         | `global/ShopManager/Episode1/Shopkeeper_WinterToken.ShopOpen();` |
-| **Old n New Christmas Clothes/Gear** | `global/ShopManager/Episode1/Shopkeeper_DressWarm.ShopOpen();` |
+| **Old & New Christmas Clothes/Gear** | `global/ShopManager/Episode1/Shopkeeper_DressWarm.ShopOpen();` |
 | **Christmas Flea Market**     | `global/ShopManager/Episode1/MagicChristmasMarketShop_FleaMarket.ShopOpen();` |
 | **Christmas Outfits**         | `global/ShopManager/Episode1/Shopkeeper_WinterOutdoors.ShopOpen();` |
+| **Beach Festival Token Shop** | `global/ShopManager/Episode1/BeachFestival_TokenVendor.ShopOpen();` |
+| **Halloween Token Shop**    | `global/ShopManager/Episode1/Halloween_TokenVendor.ShopOpen();` |
 
 ---
 
@@ -130,6 +154,24 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Fort Pinta Pets**           | `global/ShopManager/Episode1/FortPintaPetStore.ShopOpen();` |
 | **Fort Pinta New Pets**       | `global/ShopManager/Episode1/FortPinta_Pet_New.ShopOpen();` |
 | **Seagulls**                  | `global/ShopManager/Episode1/FortPinta_SeagullShop.ShopOpen();` |
+| **Equestrian Festival Token Pets**  | `global/ShopManager/Episode1/EquestrianFestival_TokenVendor_RP_Pets.ShopOpen();` |
+| **Equestrian Festival Pets**  | `global/ShopManager/Episode1/EquestrianFestival_Premium_Balloon.ShopOpen();` | 
+| **Equestrian Festival Pets 2** | `global/ShopManager/Episode1/EquestrianFestival_TokenVendor_Balloon.ShopOpen();` |
+| **Bazaar Pets**               | `global/ShopManager/Episode1/Bazaar_PetShop.ShopOpen();` |
+| **Unicorn Fox**               | `global/ShopManager/Episode1/MagicPetShopDruidUnicornFox01.ShopOpen();` |
+| **Unicorn Fox 2**             | `global/ShopManager/Episode1/MagicPetShopDruidUnicornFox02.ShopOpen();` |
+| **Hollow Woods Squirrel**     | `global/ShopManager/Episode1/MagicPetShopHollowWoodsSquirrel.ShopOpen();` |
+| **Magic Cat**                 | `global/ShopManager/Episode1/MagigPetSHopCat.ShopOpen();` |
+| **Magic Fox**                 | `global/ShopManager/Episode1/MagigPetSHopFox.ShopOpen();` |
+| **Magic Owl**                 | `global/ShopManager/Episode1/MagicPetShopOwl01.ShopOpen();` |
+| **Magic Beeper**              | `global/ShopManager/Episode1/MagicPetShopBeeper01.ShopOpen();` |
+| **Magic Bunny 1**             | `global/ShopManager/Episode1/MagicPetShopBunny01.ShopOpen();` |
+| **Magic Bunny 2**             | `global/ShopManager/Episode1/MagicPetShopBunny02.ShopOpen();` |
+| **Magic Spider 1**            | `global/ShopManager/Episode1/MagicPetShopSpider01.ShopOpen();` |
+| **Magic pider 2**             | `global/ShopManager/Episode1/MagicPetShopSpider02.ShopOpen();` |
+| **Moorland Stables Pets**     | `global/ShopManager/Episode1/MoorlandStables_PetShop.ShopOpen();` |
+| **Rainbow Fest Terriers**     | `global/ShopManager/Episode1/RainbowFest_Shopkeeper_PrideTerrier.ShopOpen();` |
+| **South Hoof Dogs**           | `global/ShopManager/Episode1/SHRR_DogStore.ShopOpen();` |
 
 ---
 
@@ -144,5 +186,13 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Masquerade Shop**           | `global/ShopManager/Episode1/MasqueradeShop.ShopOpen();` |
 | **Jarlaheim Glasses**         | `global/ShopManager/Episode1/JarlaheimGlassesShop.ShopOpen();` |
 | **Fireworks**                 | `global/ShopManager/Episode1/NewYearFireworkShop.ShopOpen();` |
+| **Champ Horse Food**          | `global/ShopManager/Episode1/Champ_FoodVendor.ShopOpen();` |
+| **Aideen's Plaza Fruits**     | `global/ShopManager/Episode1/AideensPlaza_Fruits.ShopOpen();` |
+| **Riding Camp Horse Food**    | `global/ShopManager/Episode1/RidingCamp_FoodVendor.ShopOpen();` |
+| **Birthday Cake Shop**        | `global/ShopManager/Episode1/BirthdayCakeShop.ShopOpen();` |
+| **Ranch Horse Food**          | `global/ShopManager/Episode1/GenericHorseUtilitiesShopRanch.ShopOpen();` |
+| **HW Garden Powder**          | `global/ShopManager/Episode1/HollowWoods_LightVendor.ShopOpen();` |
+| **Reindeer Powder**           | `global/ShopManager/Episode1/MagicChristmasMarketShop_Consumables.ShopOpen();` |
+| **Snow Tickets**              | `global/ShopManager/Episode1/Winter_JamesScheme.ShopOpen();` |
 
 ---
