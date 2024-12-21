@@ -96,13 +96,17 @@ NOT FINISHED!
 | `global/Player.PlayerTPNetPlayAnimation("Vocalist_Play_04");`       | Vocalist Play 3             |
 | `global/Player.PlayerTPNetPlayAnimation("Vocalist_Cheering_01");`   | Vocalist Cheering 1         |
 | `global/Player.PlayerTPNetPlayAnimation("Vocalist_Cheering_02");`   | Vocalist Cheering 2         |
+
 ---
 
 ## Action Animations
 
 | **Command**                                      | **Description**          |
 |--------------------------------------------------|--------------------------|
+| `global/Player.PlayerTPNetPlayAnimation("Meditation");`             | Action: Meditation                |
+| `global/Player.PlayerTPNetPlayAnimation("PushUp");`                 | Action: Push-Up                   |
 | `global/Player.PlayerTPNetPlayAnimation("ActionMine");`             | Action: Mine                      |
+| `global/Player.PlayerTPNetPlayAnimation("ActionChainsaw");`         | Action: Chainsaw                  |
 | `global/Player.PlayerTPNetPlayAnimation("ActionPreWand");`          | Action: Pre-Wand                  |
 | `global/Player.PlayerTPNetPlayAnimation("ActionWand1");`            | Action: Wand 1                    |
 | `global/Player.PlayerTPNetPlayAnimation("ActionWand2");`            | Action: Wand 2                    |
@@ -117,8 +121,19 @@ NOT FINISHED!
 | `global/Player.PlayerTPNetPlayAnimation("CraftingWeaving");`        | Action: Crafting Weaving          |
 | `global/Player.PlayerTPNetPlayAnimation("Drink");`                  | Action: Drink                     |
 | `global/Player.PlayerTPNetPlayAnimation("Fishing");`                | Action: Fishing                   |
+| `global/Player.PlayerTPNetPlayAnimation("FeedHorseCake");`          | Action: Feed Horse Cake           |
 | `global/Player.PlayerTPNetPlayAnimation("Groom");`                  | Action: Groom                     |
-| `global/Player.PlayerTPNetPlayAnimation("PushUp");`                 | Action: Push-Up                   |
+| `global/Player.PlayerTPNetPlayAnimation("HoofPick");`               | Action: Hoof Pick                 |
+| `global/Player.PlayerTPNetPlayAnimation("Feed");`                   | Action: Feed                      |
+| `global/Player.PlayerTPNetPlayAnimation("FightFeed");`              | Action: Fight Feed                |
+| `global/Player.PlayerTPNetPlayAnimation("FightGroom");`             | Action: Fight Groom               |
+| `global/Player.PlayerTPNetPlayAnimation("FightHoofPick");`          | Action: Fight Hoof Pick           |       
+| `global/Player.PlayerTPNetPlayAnimation("Mocka");`                  | Action: Mocka                     |
+| `global/Player.PlayerTPNetPlayAnimation("FoalBrush");`              | Action: Foal Brush                |
+| `global/Player.PlayerTPNetPlayAnimation("FoalClean");`              | Action: Foal Clean                |
+| `global/Player.PlayerTPNetPlayAnimation("FoalFeed");`               | Action: Foal Feed                 |
+| `global/Player.PlayerTPNetPlayAnimation("FoalSoap");`               | Action: Foal Soap                 |
+| `global/Player.PlayerTPNetPlayAnimation("GroomLow");`               | Action: Groom Low                 |
 | `global/Player.PlayerTPNetPlayAnimation("Throw");`                  | Action: Throw                     |
 | `global/Player.PlayerTPNetPlayAnimation("BeeIdle");`                | Action: Bee Idle                  |
 | `global/Player.PlayerTPNetPlayAnimation("BeeRun");`                 | Action: Bee Run                   |
@@ -129,32 +144,20 @@ NOT FINISHED!
 | `global/Player.PlayerTPNetPlayAnimation("CrouchReverse");`          | Action: Crouch Reverse            |
 | `global/Player.PlayerTPNetPlayAnimation("CrouchWalk");`             | Action: Crouch Walk               |
 | `global/Player.PlayerTPNetPlayAnimation("CuddleFoal");`             | Action: Cuddle Foal               |
-| `global/Player.PlayerTPNetPlayAnimation("Feed");`                   | Action: Feed                      |
-| `global/Player.PlayerTPNetPlayAnimation("FightFeed");`              | Action: Fight Feed                |
-| `global/Player.PlayerTPNetPlayAnimation("FightGroom");`             | Action: Fight Groom               |
-| `global/Player.PlayerTPNetPlayAnimation("FoalBrush");`              | Action: Foal Brush                |
-| `global/Player.PlayerTPNetPlayAnimation("FoalClean");`              | Action: Foal Clean                |
-| `global/Player.PlayerTPNetPlayAnimation("FoalFeed");`               | Action: Foal Feed                 |
-| `global/Player.PlayerTPNetPlayAnimation("FoalSoap");`               | Action: Foal Soap                 |
-| `global/Player.PlayerTPNetPlayAnimation("GroomLow");`               | Action: Groom Low                 |
 | `global/Player.PlayerTPNetPlayAnimation("HalterGrab");`             | Action: Halter Grab               |
 | `global/Player.PlayerTPNetPlayAnimation("HalterIdle");`             | Action: Halter Idle               |
 | `global/Player.PlayerTPNetPlayAnimation("HalterWalk");`             | Action: Halter Walk               |
-| `global/Player.PlayerTPNetPlayAnimation("HoofPick");`               | Action: Hoof Pick                 |
 | `global/Player.PlayerTPNetPlayAnimation("Idle");`                   | Action: Idle                      |
 | `global/Player.PlayerTPNetPlayAnimation("Idle_01");`                | Action: Idle 1                    |
 | `global/Player.PlayerTPNetPlayAnimation("Idle_02");`                | Action: Idle 2                    |
 | `global/Player.PlayerTPNetPlayAnimation("Idle_03");`                | Action: Idle 3                    |
 | `global/Player.PlayerTPNetPlayAnimation("Idle_04");`                | Action: Idle 4                    |
-| `global/Player.PlayerTPNetPlayAnimation("Idle_05");`                | Action: Idle  5                   |
+| `global/Player.PlayerTPNetPlayAnimation("Idle_05");`                | Action: Idle 5                    |
 | `global/Player.PlayerTPNetPlayAnimation("IdleJump");`               | Action: Idle Jump                 |
 | `global/Player.PlayerTPNetPlayAnimation("Jump");`                   | Action: Jump                      |
 | `global/Player.PlayerTPNetPlayAnimation("Knit");`                   | Action: Knit                      |
 | `global/Player.PlayerTPNetPlayAnimation("Knock");`                  | Action: Knock                     |
-| `global/Player.PlayerTPNetPlayAnimation("Meditation");`             | Action: Meditation                |
-| `global/Player.PlayerTPNetPlayAnimation("Mocka");`                  | Action: Mocka                     |
 | `global/Player.PlayerTPNetPlayAnimation("Run");`                    | Action: Run                       |
-| `global/Player.PlayerTPNetPlayAnimation("FeedHorseCake");`          | Action: Feed Horse Cake           |
 | `global/Player.PlayerTPNetPlayAnimation("OperateGeneric");`         | Action: Operate Generic           |
 | `global/Player.PlayerTPNetPlayAnimation("OperateGenericLow");`      | Action: Operate Generic Low       |
 | `global/Player.PlayerTPNetPlayAnimation("OperateGenericLowShort");` | Action: Operate Generic Low Short |
@@ -170,6 +173,18 @@ NOT FINISHED!
 | `global/Player.PlayerTPNetPlayAnimation("PetFox");`                 | Action: Pet Fox                   |
 | `global/Player.PlayerTPNetPlayAnimation("PetPig");`                 | Action: Pet Pig                   |
 | `global/Player.PlayerTPNetPlayAnimation("PetSheep");`               | Action: Pet Sheep                 |
+| `global/Player.PlayerTPNetPlayAnimation("PetDonkey");`              | Action: Pet Fox                   |
+| `global/Player.PlayerTPNetPlayAnimation("PetGenHen");`              | Action: Pet Pig                   |
+| `global/Player.PlayerTPNetPlayAnimation("PetOwl");`                 | Action: Pet Sheep                 |
+| `global/Player.PlayerTPNetPlayAnimation("CIN_StagConfrontation");`  | Action: ??                        |
+| `global/Player.PlayerTPNetPlayAnimation("Lance_addi");`             | Action: ??                        |
+| `global/Player.PlayerTPNetPlayAnimation("Offset_Arms_addi");`       | Action: ??                        |
+| `global/Player.PlayerTPNetPlayAnimation("Offset_Legs_addi");`       | Action: ??                        |
+| `global/Player.PlayerTPNetPlayAnimation("Offset_ArmsRiding_addi");` | Action: ??                        |
+| `global/Player.PlayerTPNetPlayAnimation("Offset_LegsRiding_addi");` | Action: ??                        |
+| `global/Player.PlayerTPNetPlayAnimation("spell_cast_quick");`       | Action: ??                        |
+| `global/Player.PlayerTPNetPlayAnimation("spell_cast_full");`        | Action: ??                        |
+
 
 ---
 
