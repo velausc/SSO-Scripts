@@ -95,5 +95,9 @@ A complete list of faction reputation commands for **Star Stable Online**, organ
 |----------------------------------|------------------------------------------------------|
 | **Soul Riding with Rhiannon**    | `global/FactionManager/SoulRidingWithRhiannon.FactionAddReputation();` |
 | **Runerunner (370 ID)**          | *ID specific to get the Runerunner.*                  |
+| **Fort Pinta Championship**      | `global/FactionManager/ChampionshipFortPinta.FactionSetReputation(6001);` |
+| **Moorland Championship**        | `global/FactionManager/ChampionshipMoorland.FactionSetReputation(6001);` |
+| **Pony Championship**            | `global/FactionManager/ChampionshipPony.FactionSetReputation(6001);` |
+| **Valedale Championship**        | `global/FactionManager/ChampionshipValedale.FactionSetReputation(6001);` | 
 
 ---
