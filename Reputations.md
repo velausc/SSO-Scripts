@@ -52,6 +52,7 @@ A complete list of faction reputation commands for **Star Stable Online**, organ
 | **Silverglade Winery**           | `global/FactionManager/SilvergladeWinery.FactionSetReputation(6001);` |
 | **South Hoof**                   | `global/FactionManager/SouthHoof.FactionSetReputation(6001);` |
 | **South Harvest Counties**       | `global/FactionManager/SouthHarvestCounties.FactionSetReputation(6001);` |
+| **Jarlaheim**                    | `global/FactionManager/Jarlaheim.FactionSetReputation(6001);` |
 
 ---
 
