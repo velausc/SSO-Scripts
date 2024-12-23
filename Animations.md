@@ -4,10 +4,6 @@ A detailed collection of animation commands for various gameplay features.
 
 ---
 
-NOT FINISHED!
-
----
-
 ## Table of Contents
 1. [Pose Animations](#pose-animations)
 2. [Dance Animations](#dance-animations)
