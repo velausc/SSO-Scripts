@@ -10,3 +10,4 @@ This repository serves as a central hub for sharing, testing, and collaborating 
 2. [Quests](Quests.md)
 3. [Other](Other.md)
 4. [Reputations](Reputations.md)
+5. [Animations](Animations.md)
