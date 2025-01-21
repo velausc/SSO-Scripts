@@ -36,7 +36,7 @@ A detailed collection of animation commands for various gameplay features.
 | `global/Player.PlayerTPNetPlayAnimation("Dance1");`                 | Dance 1                     |
 | `global/Player.PlayerTPNetPlayAnimation("BeachDance");`             | Beach Dance                 |
 | `global/Player.PlayerTPNetPlayAnimation("BeachDance_01");`          | Beach Dance Variation 1     |
-| `global/Player.PlayerTPNetPlayAnimation("BeachDance_02");`          | Beach Dance Variation 2     |
+| `global/Player.PlayerTPNetPlayAnimation("BeachDance_02");`          | Macarena Dance              |
 | `global/Player.PlayerTPNetPlayAnimation("SFDance1");`               | Special Dance 1             |
 | `global/Player.PlayerTPNetPlayAnimation("SFDance2");`               | Special Dance 2             |
 | `global/Player.PlayerTPNetPlayAnimation("SFDance3");`               | Special Dance 3             |
