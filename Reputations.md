@@ -12,7 +12,7 @@ A complete list of faction reputation commands for **Star Stable Online**, organ
 5. [Miscellaneous Factions](#miscellaneous-factions)
 6. [Special Factions](#special-factions)
 
----
+--
 
 ## Expedition Factions
 
@@ -22,7 +22,7 @@ A complete list of faction reputation commands for **Star Stable Online**, organ
 | **Ancient Oak**                  | `global/FactionManager/AncientOak.FactionSetReputation(6001);` |
 | **Stoneground Expedition**       | `global/FactionManager/Stoneground_Expedition.FactionSetReputation(6001);` |
 
----
+--
 
 ## Family Factions
 
