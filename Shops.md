@@ -12,7 +12,8 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 5. [Bridge Material Shops](#bridge-material-shops)  
 6. [Pet Shops](#pet-shops)  
 7. [Miscellaneous Shops](#miscellaneous-shops)
-
+8. [Make-up Shops](#make-up-shops)
+9. [Hairstyle Shops](#hairstyle-shops)
 ---
 
 ## Clothing Shops  
@@ -74,6 +75,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Goldspur Starshop**         | `global/ShopManager/Episode1/GoldspurStarShop.ShopOpen();` |
 | **GED Clothes & Gear**        | `global/ShopManager/Episode1/SJGEDStar.ShopOpen();` |
 | **Jorvik Stables Clothes & Gear** | `global/ShopManager/Episode1/JorvikStableStar1.ShopOpen();` |
+| **Jorvik Stables Clothes & Gear 2** | `global/ShopManager/Episode1/JorvikStable_ClothingGearShop.ShopOpen();F` |
 | **Rock Shop 2**               | `global/ShopManager/Episode1/RockShop2.ShopOpen();` |
 | **New Hillcrest Clothes & Gear** | `global/ShopManager/Episode1/NewHillcrestStarshop.ShopOpen();` |
 | **Jarlaheim Clothes & Gear** | `global/ShopManager/Episode1/JarlaheimStarShop.ShopOpen();` |
@@ -126,7 +128,27 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Christmas Outfits**         | `global/ShopManager/Episode1/Shopkeeper_WinterOutdoors.ShopOpen();` |
 | **Beach Festival Token Shop** | `global/ShopManager/Episode1/BeachFestival_TokenVendor.ShopOpen();` |
 | **Halloween Token Shop**      | `global/ShopManager/Episode1/Halloween_TokenVendor.ShopOpen();` |
-| **Equestrian Festival**       | `global/ShopManager/Episode1/EquestrianFestival_Seasonal.ShopOpen();` |
+| **Halloween Discounts Shop**  | `global/ShopManager/Episode1/HalloweenFest_DiscountShop.ShopOpen();` |
+| **Equestrian Festival Shop 2**  | `global/ShopManager/Episode1/EquestrianFestival_Seasonal.ShopOpen();` |
+| **Equestrian Festival Token Shop** | `global/ShopManager/Episode1/EquestrianFestival_TokenVendor.ShopOpen();` |
+| **Equestrian Festival Outlet** | `global/ShopManager/Episode1/EquestrianFestival_Outlet.ShopOpen();` |
+| **Equestrian Festival Pets** | `global/ShopManager/Episode1/EquestrianFestival_Outlet_Pets.ShopOpen();` |
+| **Equestrian Festival Vintage** | `global/ShopManager/Episode1/EquestrianFestival_Vintage.ShopOpen();` |
+| **Equestrian Festival Vintage Pets** | `global/ShopManager/Episode1/EquestrianFestival_Vintage_Pets.ShopOpen();` |
+| **Equestrian Festival Retired Items** | `global/ShopManager/Episode1/EquestrianFestival_RetiredItems.ShopOpen();` |
+| **Midsummer Secondhand** | `global/ShopManager/Episode1/MidsummerShopKeeperSecondHand.ShopOpen();` |
+| **Summer Festival Token Pets** | `global/ShopManager/Episode1/SummerFestival_TokenPetVendor.ShopOpen();` |
+| **Summer Festival Token Shop** | `global/ShopManager/Episode1/SummerFestival_TokenVendor.ShopOpen();` |
+| **Western Festival Shop** | `global/ShopManager/Episode1/WesternFestival_Seasonal.ShopOpen();` |
+| **Summer Festival Pet Shop** | `global/ShopManager/Episode1/SummerFestival_PetShopVendor.ShopOpen();` |
+| **Western Festival Outlet** | `global/ShopManager/Episode1/WesternFestival_Outlet.ShopOpen();` |
+| **SDF Token Shop** | `global/ShopManager/Episode1/SDF_Token.ShopOpen();` |
+| **SDF Vintage Shop** | `global/ShopManager/Episode1/SDF_Vintage.ShopOpen();` |
+| **SDF Outlet** | `global/ShopManager/Episode1/SDF_Outlet.ShopOpen();` |
+| **SDF Seasonal Shop** | `global/ShopManager/Episode1/SDF_Seasonal.ShopOpen();` |
+| **SDF Decorations Shop** | `global/ShopManager/Episode1/SDF_Decoration.ShopOpen();` |
+| **Rainbow Festival Decorations** | `global/ShopManager/Episode1/SDF_RainbowDecorationShop.ShopOpen();` |
+
 ---
 
 ## Bridge Material Shops  
@@ -172,6 +194,13 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Moorland Stables Pets**     | `global/ShopManager/Episode1/MoorlandStables_PetShop.ShopOpen();` |
 | **Rainbow Fest Terriers**     | `global/ShopManager/Episode1/RainbowFest_Shopkeeper_PrideTerrier.ShopOpen();` |
 | **South Hoof Dogs**           | `global/ShopManager/Episode1/SHRR_DogStore.ShopOpen();` |
+| **Medieval Arena Pets**       | `global/ShopManager/Episode1/MedievalArena_PetShop.ShopOpen();` |
+| **SDF Cat**                   | `global/ShopManager/Episode1/SDF_CAT1_Texture_13.ShopOpen();` |
+| **Aquatic Pet Shop**          | `global/ShopManager/Episode1/SDF_AquaticPetShop.ShopOpen();` |
+| **Frogs**                     | `global/ShopManager/Episode1/TravellingSalesmanPetFrogShop.ShopOpen();` |
+| **Aquatic Pet Shop**          | `global/ShopManager/Episode1/SDF_AquaticPetShop.ShopOpen();` |
+| **SDF Seasonal Pets**         | `global/ShopManager/Episode1/SDF_SeasonalPets.ShopOpen();` |
+| **Rainbow Festival Pets**     | `global/ShopManager/Episode1/RainbowFestival_PetShop.ShopOpen();` |
 
 ---
 
@@ -190,9 +219,53 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Aideen's Plaza Fruits**     | `global/ShopManager/Episode1/AideensPlaza_Fruits.ShopOpen();` |
 | **Riding Camp Horse Food**    | `global/ShopManager/Episode1/RidingCamp_FoodVendor.ShopOpen();` |
 | **Birthday Cake Shop**        | `global/ShopManager/Episode1/BirthdayCakeShop.ShopOpen();` |
+| **Birthday Cake Shop Horse**  | `global/ShopManager/Episode1/BirthdayCakeShop_Horse.ShopOpen();` |
 | **Ranch Horse Food**          | `global/ShopManager/Episode1/GenericHorseUtilitiesShopRanch.ShopOpen();` |
 | **HW Garden Powder**          | `global/ShopManager/Episode1/HollowWoods_LightVendor.ShopOpen();` |
 | **Reindeer Powder**           | `global/ShopManager/Episode1/MagicChristmasMarketShop_Consumables.ShopOpen();` |
 | **Snow Tickets**              | `global/ShopManager/Episode1/Winter_JamesScheme.ShopOpen();` |
 
 ---
+
+## Make-up Shops  
+
+| **Shop Name**                 | **Script Command**                                  |
+|-------------------------------|-----------------------------------------------------|
+| **Silverglade Make-up**       | `global/ShopManager/Episode1/SilvergladeMakeup.ShopOpen();` |
+| **Silverglade Make-up 2**     | `global/ShopManager/Episode1/SilvergladeMakeup2.ShopOpen();` |
+| **Fiskebyns Beauty Salon**    | `global/ShopManager/Episode1/FiskebynsBeautySalon.ShopOpen();` |
+| **Fort Pinta Make-up 2**      | `global/ShopManager/Episode1/FortPintaBeautySalon2.ShopOpen();` |
+| **Rock Beauty Salon**         | `global/ShopManager/Episode1/RockBeautySaloon.ShopOpen();` |
+| **Star Rider Make-up**        | `global/ShopManager/Episode1/StarRiderBeautySaloonMakeUp1.ShopOpen();` |
+| **Governor Fall Make-up**     | `global/ShopManager/Episode1/GovernorFall_BeautyShop.ShopOpen();` |
+| **Dundull Make-up**           | `global/ShopManager/Episode1/Dundull_MakeupSalon.ShopOpen();` |
+| **Hollow Woods Make-up**      | `global/ShopManager/Episode1/HollowWoods_MakeupShop.ShopOpen();` |
+| **EQF Make-up**               | `global/ShopManager/Episode1/EQF_MakeupShop_01.ShopOpen();` |
+| **Moorland Stables Make-up**  | `global/ShopManager/Episode1/MoorlandStables_MakeupShop.ShopOpen();` |
+| **Silverglade EC Make-up**    | `global/ShopManager/Episode1/SilvergladeEquestrianCenter_MakeupShop.ShopOpen();` |
+| **SDF Make-up**               | `global/ShopManager/Episode1/SDF_MakeupShop.ShopOpen();` |
+| **Western Festival Make-up**   `global/ShopManager/Episode1/WesternFestival_MakeupShop.ShopOpen();` |
+
+---
+
+## Hairstyle Shops
+| **Shop Name**                 | **Script Command**                                  |
+|-------------------------------|-----------------------------------------------------|
+| **Fort Pinta Hair Saloon 2**  | `global/ShopManager/Episode1/FortPintaHairSaloon2.ShopOpen();` |
+| **Silverglade Hair Saloon 2** | `global/ShopManager/Episode1/SilvergladeHairStyle2.ShopOpen();` |
+| **Fishing Village Hair Saloon** | ` global/ShopManager/Episode1/FishingVillageHairSaloon1.ShopOpen();` |
+| **Fishing Village Hair Saloon 2** | `global/ShopManager/Episode1/FishingVillageHairSaloon2.ShopOpen();` |
+| **Firgrove Hair Saloon**      | `global/ShopManager/Episode1/FirgroveSaloon.ShopOpen();` |
+| **Vineyard Hair Saloon**      | `global/ShopManager/Episode1/VineyardSaloon.ShopOpen();` |
+| **Rock Hair Saloon**          | `global/ShopManager/Episode1/RockHairSaloon.ShopOpen();` |
+| **Jorvik City Hair Saloon**   | `global/ShopManager/Episode1/JorvikCitysHairSaloon.ShopOpen();` |
+| **Shopping Mall Hair Saloon** | `global/ShopManager/Episode1/ShoppingMallHairSaloon.ShopOpen();` |
+| **Dundull Hair Saloon**       | `global/ShopManager/Episode1/Dundull_BeautySalon.ShopOpen();` |
+| **Hollow Woods Hair Saloon**  | `global/ShopManager/Episode1/HollowWoods_HairShop.ShopOpen();` |
+| **Moorland Stables Hair Saloon** | `global/ShopManager/Episode1/MoorlandStables_HairShop.ShopOpen();` |
+| **Medieval Arena Hair Saloon**   | `global/ShopManager/Episode1/MedievalArena_HairShop.ShopOpen();` |
+| **Silverglade EC Hair Saloon**   | `global/ShopManager/Episode1/SilvergladeEquestrianCenter_HairShop.ShopOpen();` |
+| **SDF Hair Saloon**           | `global/ShopManager/Episode1/SDF_HairShop.ShopOpen();` |
+| **Western Festival Hair Saloon** | `global/ShopManager/Episode1/WesternFestival_HairShop.ShopOpen();` |
+
+
