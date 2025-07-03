@@ -244,7 +244,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Moorland Stables Make-up**  | `global/ShopManager/Episode1/MoorlandStables_MakeupShop.ShopOpen();` |
 | **Silverglade EC Make-up**    | `global/ShopManager/Episode1/SilvergladeEquestrianCenter_MakeupShop.ShopOpen();` |
 | **SDF Make-up**               | `global/ShopManager/Episode1/SDF_MakeupShop.ShopOpen();` |
-| **Western Festival Make-up**   `global/ShopManager/Episode1/WesternFestival_MakeupShop.ShopOpen();` |
+| **Western Festival Make-up**  | `global/ShopManager/Episode1/WesternFestival_MakeupShop.ShopOpen();` |
 
 ---
 
