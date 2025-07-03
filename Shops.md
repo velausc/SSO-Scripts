@@ -125,8 +125,8 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Christmas Flea Market**     | `global/ShopManager/Episode1/MagicChristmasMarketShop_FleaMarket.ShopOpen();` |
 | **Christmas Outfits**         | `global/ShopManager/Episode1/Shopkeeper_WinterOutdoors.ShopOpen();` |
 | **Beach Festival Token Shop** | `global/ShopManager/Episode1/BeachFestival_TokenVendor.ShopOpen();` |
-| **Halloween Token Shop**    | `global/ShopManager/Episode1/Halloween_TokenVendor.ShopOpen();` |
-
+| **Halloween Token Shop**      | `global/ShopManager/Episode1/Halloween_TokenVendor.ShopOpen();` |
+| **Equestrian Festival**       | `global/ShopManager/Episode1/EquestrianFestival_Seasonal.ShopOpen();` |
 ---
 
 ## Bridge Material Shops  
