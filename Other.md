@@ -45,7 +45,9 @@ A detailed collection of advanced commands for various gameplay features.
 | `global/Horse/Skin/Pelvis.SetSkinMeshSubsetMaterial("HorseBody", "horse coat name");`                  | Set horse body and coat appearance. |
 | `global/Network.NetworkHorseFreeWellbeing();`                                                          | Free horse well being. |
 | `global/Player.PlayerTPNetEnterVehicle(global/Horse);`                                                 | Teleports you onto horse. |
+| `global/Horse.SetRelativeLinearVelocity(0,10,20);`                                                     | Makes your horse fly. |
 
+   
 ---
 
 ## Environment Settings
@@ -53,6 +55,7 @@ A detailed collection of advanced commands for various gameplay features.
 | **Command**                          | **Description**          |
 |--------------------------------------|--------------------------|
 | `global/GlobalTimer.SetTimerTime(12);` | Set the day to noon. |
+| `global/Player/Pelvis.SetScale(0, 0, 0);` | Set scale for the character. |
 
 ---
 
@@ -88,5 +91,7 @@ A detailed collection of advanced commands for various gameplay features.
 | `global/Horse.HorseAppearanceCustomBody(1,1,0); global/Horse.HorseAppearanceCustomHair(22,1,0);`      | Female deer.         | 
 | `global/Horse.HorseAppearanceCustomBody(1,1,0); global/Horse.HorseAppearanceCustomHair(23,1,0);`      | Bear.                | 
 | `global/Horse.HorseAppearanceCustomBody(1,1,0); global/Horse.HorseAppearanceCustomHair(24,1,0);`      | Moose.               | 
+| `global/Horse.HorseAppearanceCustomBody(10,0,0);`                                                     | Zee.                 | 
+| `global/Horse.HorseAppearanceCustomBody(2,-1,0); global/Horse.HorseAppearanceCustomHair(3,-1,0);`     | Easter Coats.        |
 
 ---
