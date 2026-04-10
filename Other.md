@@ -78,6 +78,11 @@ A detailed collection of advanced commands for various gameplay features.
 | `global/MyStableWindow.Start();`     | Open the wardrobe. |
 | `global/MakeupChangeWindow.Start();` | Open the makeup window. |
 | `global/HairStyleChangeWindow.Start();` | Open the hairstyle window. |
+| `global/PlayerName.SetDataString("xxx");` | Change player's name temporarily. |
+| `global/HorseName.SetDataString("xxx");` | Change horse's name temporarily. |
+| `global/PlayerStarMoney.SetDataInt(number);` | Change Star Coins amount (client-sided only). |
+| `global/Player.SetPlayerTPNetLevel(number);` | Change player's level temporarily. |
+| `global/Horse.SetHorseLevel(number);` | Change horse's level temporarily. |
 
 ---
 
@@ -95,5 +100,6 @@ A detailed collection of advanced commands for various gameplay features.
 | `global/Horse.HorseAppearanceCustomBody(1,1,0); global/Horse.HorseAppearanceCustomHair(24,1,0);`      | Moose.               | 
 | `global/Horse.HorseAppearanceCustomBody(10,0,0);`                                                     | Zee.                 | 
 | `global/Horse.HorseAppearanceCustomBody(2,-1,0); global/Horse.HorseAppearanceCustomHair(3,-1,0);`     | Easter Coats.        |
+| `global/Horse.HorseAppearanceCustomBody(0,0,0); global/Horse.HorseAppearanceCustomHair(35,0,0);`      | Shark.               |
 
 ---
