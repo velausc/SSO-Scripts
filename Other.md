@@ -21,6 +21,8 @@ A detailed collection of advanced commands for various gameplay features.
 |-------------------------------------------------|--------------------------|
 | `/World.SetWorldDrawGlobalSpace(0);`            | Xray On                  |
 | `/World.SetWorldDrawGlobalSpace(1);`            | Xray Off                 |
+| `global/Network.SetNetworkHideSlaves(1);`       | Hides all players        |
+| `global/Network.SetNetworkHideSlaves(0);`       | Shows all players        |
 
 ---
 
@@ -28,7 +30,7 @@ A detailed collection of advanced commands for various gameplay features.
 
 | **Command**                                                                                                    | **Description**                  |
 |----------------------------------------------------------------------------------------------------------------|----------------------------------|
-| `global/CutSceneCamera.Start(); global/CutSceneCamera.Move(global/Player); global/CutSceneCamera.SetOrientationByObject(global/Player); global/CutSceneCamera.AddPosition(0, 0.5, -0.5);` | Switch to first-person mode. |
+| `global/CutSceneCamera.Start(); global/CutSceneCamera.Move(global/Player); global/CutSceneCamera.SetOrientationByObject(global/Player); global/CutSceneCamera.AddPosition(0, 0.5, -0.5);`                                                               | Switch to first-person mode. |
 | `global/Player/Camera.Start();`                                                                               | Restore third-person mode. |
 
 ---
@@ -42,6 +44,7 @@ A detailed collection of advanced commands for various gameplay features.
 | `global/Horse.HorseRestoreAppearance();`                                                               | Restore the horse's default appearance. |
 | `global/Horse/Skin/Pelvis.SetSkinMeshSubsetMaterial("HorseBody", "horse coat name");`                  | Set horse body and coat appearance. |
 | `global/Network.NetworkHorseFreeWellbeing();`                                                          | Free horse well being. |
+| `global/Player.PlayerTPNetEnterVehicle(global/Horse);`                                                 | Teleports you onto horse. |
 
 ---
 
