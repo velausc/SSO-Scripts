@@ -43,7 +43,7 @@ A detailed collection of advanced commands for various gameplay features.
 | `global/HorseForSaleInfoWindow/RenderViews/RenderTargetView/Scene/Animation/Horse.CloneHorse(0, 0); global/HorseForSaleInfoWindow/RenderViews/RenderTargetView/Scene/Animation/Horse.HorseForSaleStartBuyWindow();` | Open the horse purchase window. |
 | `global/Button_GlobalHorseStore.Start();`                                                              | Open the global horse store. |
 | `global/Horse.HorseRestoreAppearance();`                                                               | Restore the horse's default appearance. |
-| `global/Horse/Skin/Pelvis.SetSkinMeshSubsetMaterial("HorseBody", "horse coat name");`                  | Set horse body and coat appearance. |
+| `global/Horse/Skin/Pelvis.SetSkinMeshSubsetMaterial("HorseBody", "Horse coat name");`                  | Set horse body and coat appearance. (e.g ("HorseBody", "GH96_Body_04");) |
 | `global/Network.NetworkHorseFreeWellbeing();`                                                          | Free horse well being. |
 | `global/Player.PlayerTPNetEnterVehicle(global/Horse);`                                                 | Teleports you onto horse. |
 | `global/Horse.SetRelativeLinearVelocity(0,10,20);`                                                     | Makes your horse fly. |
