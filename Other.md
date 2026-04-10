@@ -11,7 +11,8 @@ A detailed collection of advanced commands for various gameplay features.
 4. [Environment Settings](#environment-settings)  
 5. [Bypass Restrictions](#bypass-restrictions)  
 6. [UI](#ui)
-7. [Special Horse Appearances](#special-horse-appearances)  
+7. [Special Horse Appearances](#special-horse-appearances)
+8. [Item Spawning](#item-spawning)
 
 ---
 
