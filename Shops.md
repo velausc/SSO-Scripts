@@ -63,6 +63,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Jarlaheim Bags**            | `global/ShopManager/Episode1/JarlaheimBagshop.ShopOpen();` |
 | **Firgrove Bags**             | `global/ShopManager/Episode1/Firgrove_Bags.ShopOpen();` |
 | **Bazaar Equipment**          | `global/ShopManager/Episode1/Bazaar_EquipmentShop.ShopOpen();` |
+| **Governor's Fall Gear**      | `global/ShopManager/Episode1/GovernorFall_LuxuaryGear.ShopOpen();` |
 
 
 ---
@@ -110,6 +111,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Foresters Shop**            | `global/ShopManager/Episode1/TailtopVillageShopKeeperForestersReputation.ShopOpen(); ` |
 | **Redwood Point Gear & Clothes** | `global/ShopManager/Episode1/RedwoodPointShopClothesGear.ShopOpen();` |
 | **RP Gear & Clothes**         | `global/ShopManager/Episode1/RedwoodPointShopRangerReputation.ShopOpen();` |
+| **Winery Garden Shop**         | `global/ShopManager/Episode1/BillysGardenStore.ShopOpen();` |
 
 ---
 
@@ -119,6 +121,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 |-------------------------------|-----------------------------------------------------|
 | **Birthday Shop**             | `global/ShopManager/Episode1/StarStableBirthdayShop.ShopOpen();` |
 | **Equestrian Festival Shop**  | `global/ShopManager/Episode1/EquestrianFestival_Premium_FestiveEquestrian.ShopOpen();` |
+| **Christmas Sweaters**        | `global/ShopManager/Episode1/MagicChristmasMarketShop_ChristmasSweaters.ShopOpen();` |
 | **Christmas Market**          | `global/ShopManager/Episode1/MagicChristmasMarketShop_A.ShopOpen();` |
 | **Christmas Costumes**        | `global/ShopManager/Episode1/MagicChristmasMarketShop_Costumes.ShopOpen();` |
 | **Christmas Lanterns**        | `global/ShopManager/Episode1/WinterVillage_ChineseLanternShop.ShopOpen();` |
