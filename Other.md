@@ -41,6 +41,7 @@ A detailed collection of advanced commands for various gameplay features.
 |--------------------------------------------------------------------------------------------------------|-------------------------------------------|
 | `global/Horse.CloneHorseAppearance(0);`                                                                | Modify the horse's appearance (client-side only). |
 | `global/HorseForSaleInfoWindow/RenderViews/RenderTargetView/Scene/Animation/Horse.CloneHorse(0, 0); global/HorseForSaleInfoWindow/RenderViews/RenderTargetView/Scene/Animation/Horse.HorseForSaleStartBuyWindow();` | Open the horse purchase window. |
+| `global/Button_GlobalHorseStore.Start();`                                                              | Open the global horse store. |
 | `global/Horse.HorseRestoreAppearance();`                                                               | Restore the horse's default appearance. |
 | `global/Horse/Skin/Pelvis.SetSkinMeshSubsetMaterial("HorseBody", "horse coat name");`                  | Set horse body and coat appearance. |
 | `global/Network.NetworkHorseFreeWellbeing();`                                                          | Free horse well being. |
