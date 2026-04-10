@@ -14,7 +14,7 @@ A collection of commands related to quests and their rewards, organized for clar
 
 | **Type**          | **Script Command**                                                 | **Description**                 |
 |--------------------|--------------------------------------------------------------------|---------------------------------|
-| **Horse XP**       | `global/QuestManager/Episode1/Chain2137/E01_Quest_L01_C2137_005.QuestComplete();` | Rewards XP for your horse.     |
+| **Horse XP**       | `global/QuestManager/Episode1/Chain7/E01_Quest_L04_C007_012.QuestComplete();` | Rewards XP for your horse.     |
 | **Player XP**      | `global/QuestManager/Episode1/Chain2321/E01_Quest_L18_C2321_007.QuestComplete();` | Rewards XP for the player.     |
 
 ---
