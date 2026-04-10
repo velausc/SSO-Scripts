@@ -100,5 +100,7 @@ A complete list of faction reputation commands for **Star Stable Online**, organ
 | **Moorland Championship**        | `global/FactionManager/ChampionshipMoorland.FactionSetReputation(6001);` |
 | **Pony Championship**            | `global/FactionManager/ChampionshipPony.FactionSetReputation(6001);` |
 | **Valedale Championship**        | `global/FactionManager/ChampionshipValedale.FactionSetReputation(6001);` | 
+| **Buy Reputation Window (not tested)** | `global/BuyReputationWindow.Start();` | 
+
 
 ---
