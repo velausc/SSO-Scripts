@@ -103,3 +103,7 @@ A detailed collection of advanced commands for various gameplay features.
 | `global/Horse.HorseAppearanceCustomBody(0,0,0); global/Horse.HorseAppearanceCustomHair(35,0,0);`      | Shark.               |
 
 ---
+## Items Spawning
+| **Command**                                                                                           | **Description**      |
+|-------------------------------------------------------------------------------------------------------|----------------------|
+| `global/QuestManager/Episode1/Chain6004/E01_Quest_L01_C6004_010.QuestComplete(); global/PlayerItemManager/Pet/Pet/CompanionBread_AprilsFools_2018.SetMovable(1);` | April Fool's Bread |
