@@ -117,6 +117,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 
 | **Shop Name**                 | **Script Command**                                  |
 |-------------------------------|-----------------------------------------------------|
+| **Birthday Shop**             | `global/ShopManager/Episode1/StarStableBirthdayShop.ShopOpen();` |
 | **Equestrian Festival Shop**  | `global/ShopManager/Episode1/EquestrianFestival_Premium_FestiveEquestrian.ShopOpen();` |
 | **Christmas Market**          | `global/ShopManager/Episode1/MagicChristmasMarketShop_A.ShopOpen();` |
 | **Christmas Costumes**        | `global/ShopManager/Episode1/MagicChristmasMarketShop_Costumes.ShopOpen();` |
@@ -127,8 +128,11 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Christmas Flea Market**     | `global/ShopManager/Episode1/MagicChristmasMarketShop_FleaMarket.ShopOpen();` |
 | **Christmas Outfits**         | `global/ShopManager/Episode1/Shopkeeper_WinterOutdoors.ShopOpen();` |
 | **Beach Festival Token Shop** | `global/ShopManager/Episode1/BeachFestival_TokenVendor.ShopOpen();` |
+| **Halloween Shop**            | `global/ShopManager/Episode1/HalloweenShop.ShopOpen();` |
 | **Halloween Token Shop**      | `global/ShopManager/Episode1/Halloween_TokenVendor.ShopOpen();` |
 | **Halloween Discounts Shop**  | `global/ShopManager/Episode1/HalloweenFest_DiscountShop.ShopOpen();` |
+| **Halloween Vintage Shop**      | `global/ShopManager/Episode1/HalloweenFest_VintageShop.ShopOpen();` |
+| **Halloween Masks Shop**      | `global/ShopManager/Episode1/HalloweenMaskShop.ShopOpen();` |
 | **Equestrian Festival Shop 2**  | `global/ShopManager/Episode1/EquestrianFestival_Seasonal.ShopOpen();` |
 | **Equestrian Festival Token Shop** | `global/ShopManager/Episode1/EquestrianFestival_TokenVendor.ShopOpen();` |
 | **Equestrian Festival Outlet** | `global/ShopManager/Episode1/EquestrianFestival_Outlet.ShopOpen();` |
@@ -198,9 +202,10 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **SDF Cat**                   | `global/ShopManager/Episode1/SDF_CAT1_Texture_13.ShopOpen();` |
 | **Aquatic Pet Shop**          | `global/ShopManager/Episode1/SDF_AquaticPetShop.ShopOpen();` |
 | **Frogs**                     | `global/ShopManager/Episode1/TravellingSalesmanPetFrogShop.ShopOpen();` |
-| **Aquatic Pet Shop**          | `global/ShopManager/Episode1/SDF_AquaticPetShop.ShopOpen();` |
+| **Pigs**                      | `global/ShopManager/Episode1/TravellingSalesmanPetPigShop.ShopOpen();` |
 | **SDF Seasonal Pets**         | `global/ShopManager/Episode1/SDF_SeasonalPets.ShopOpen();` |
 | **Rainbow Festival Pets**     | `global/ShopManager/Episode1/RainbowFestival_PetShop.ShopOpen();` |
+| **Halloween Pets**            | `global/ShopManager/Episode1/HalloweenPetShop.ShopOpen();` |
 
 ---
 
@@ -245,6 +250,7 @@ A complete list of shop scripts for **Star Stable Online**, organized by categor
 | **Silverglade EC Make-up**    | `global/ShopManager/Episode1/SilvergladeEquestrianCenter_MakeupShop.ShopOpen();` |
 | **SDF Make-up**               | `global/ShopManager/Episode1/SDF_MakeupShop.ShopOpen();` |
 | **Western Festival Make-up**  | `global/ShopManager/Episode1/WesternFestival_MakeupShop.ShopOpen();` |
+| **Halloween Make-up**         | `global/ShopManager/Episode1/HalloweenMakeupShop.ShopOpen();` |
 
 ---
 
