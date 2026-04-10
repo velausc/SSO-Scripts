@@ -46,7 +46,7 @@ A detailed collection of advanced commands for various gameplay features.
 | `global/Network.NetworkHorseFreeWellbeing();`                                                          | Free horse well being. |
 | `global/Player.PlayerTPNetEnterVehicle(global/Horse);`                                                 | Teleports you onto horse. |
 | `global/Horse.SetRelativeLinearVelocity(0,10,20);`                                                     | Makes your horse fly. |
-
+| `global/Player.SetScale(0,0,0);`                                                                       | Set scale for horse. |
    
 ---
 
