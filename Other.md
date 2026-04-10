@@ -89,6 +89,8 @@ A detailed collection of advanced commands for various gameplay features.
 | `global/Player.SetPlayerTPNetLevel(number);` | Change player's level temporarily. |
 | `global/Horse.SetHorseLevel(number);` | Change horse's level temporarily. |
 | `global/EmoteWindow.Start(); global/ChatWindow/SmileMenu.Start();` | Emojis Window. |
+| `global/Debug_ChampionshipStarterWindow.Start();` | Championship Window. |
+
 
 ---
 
